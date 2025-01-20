@@ -33,7 +33,7 @@ This section outlines the routes and their corresponding HTTP methods that the s
 
 ### GET /RecipeService/GetRecipeById
 - **Method**: `GET`
-- **Path**: `/RecipeService/GetRecipeById?id=2`
+- **Path**: `/RecipeService/GetRecipeById?id=1`
 - **Description**: Retrieves a recipe by its unique ID. The `id` should be provided as a query parameter.
 
 ### GET /RecipeService/GetAllRecipes
