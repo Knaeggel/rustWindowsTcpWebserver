@@ -88,7 +88,7 @@ This section outlines the routes and their corresponding HTTP methods that the s
 
 ### Example Recipe Structure
 
-When sending or receiving a recipe in requests (for `PUT`, `POST`, or `DELETE`), the recipe should follow this JSON structure:
+When sending or receiving a recipe in requests (for `PUT` or `POST`), the recipe should follow this JSON structure:
 
 ```json
 {
