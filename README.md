@@ -23,10 +23,6 @@ The server can also be stopped by sending a request to the `/ShutDown` route, wh
 
 # HTTP Server Method Dispatcher
 
-This section outlines the routes and their corresponding HTTP methods that the server currently supports. The dispatcher dynamically routes incoming requests to the appropriate service methods based on the path and method.
-
-# HTTP Server Method Dispatcher
-
 This section outlines the routes and their corresponding HTTP methods that the server supports. The dispatcher dynamically routes incoming requests to the appropriate service methods based on the path and method.
 
 ## Routes
